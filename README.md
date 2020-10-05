@@ -36,3 +36,7 @@ government of India have taken a great number of steps to handle this unpreceden
 ## Snapshots
 
 ![Age_wise_plot](https://github.com/ArulSaxena/Covid-19-Tracking-and-Analysis-uisng-R/blob/master/images/Rplot01(Age%20Wise).png)
+![Age_wise_plot](https://github.com/ArulSaxena/Covid-19-Tracking-and-Analysis-uisng-R/blob/master/images/Rplot02.png)
+![Age_wise_plot](https://github.com/ArulSaxena/Covid-19-Tracking-and-Analysis-uisng-R/blob/master/images/Rplot03.png)
+![Age_wise_plot](https://github.com/ArulSaxena/Covid-19-Tracking-and-Analysis-uisng-R/blob/master/images/Rplot09.png)
+![Age_wise_plot](https://github.com/ArulSaxena/Covid-19-Tracking-and-Analysis-uisng-R/blob/master/images/Rplot11.png)
